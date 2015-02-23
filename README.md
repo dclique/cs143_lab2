@@ -5,7 +5,7 @@ Lab partner: Aland Kuang
 
 SimpleDB, a database management system
 
-*Handles the storage of Tuples in HeapPages
-*HeapPages are maintained by the HeapFile
-*Maintains a buffer pool cache with a page eviction policy
-*Supports operations and aggregations
+* Handles the storage of Tuples in HeapPages
+* HeapPages are maintained by the HeapFile
+* Maintains a buffer pool cache with a page eviction policy
+* Supports operations and aggregations
